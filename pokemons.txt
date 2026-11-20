@@ -1,1 +1,6 @@
-Psyduck;physic;kick;10;psyBeam;40;30;300
+Pikachu;Electric;Quick Attack;15;Thunderbolt;40;50;80
+Charmander;Fire;Scratch;12;Ember;30;70;100
+Bulbasaur;Grass;Tackle;10;Vine Whip;25;80;120
+Squirtle;Water;Tackle;12;Water Gun;32;65;105
+Geodude;Rock;Rock Throw;9;Rock Slide;28;75;130
+Eevee;Normal;Quick Attack;14;Swift;35;60;90
