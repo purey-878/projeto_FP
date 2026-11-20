@@ -1,5 +1,6 @@
 import random
 
+#Attack logic funtion for the battles
 def atacar(pokemon, escolha):
     if escolha == 1:
         return int(pokemon[3])
@@ -12,6 +13,7 @@ def atacar(pokemon, escolha):
         else:
             return 0
 
+#starting the battle between the two chosen pokemons
 def iniciar_batalha(jogador1, jogador2):
     hp1 = int(jogador1[7])
     hp2 = int(jogador2[7])
