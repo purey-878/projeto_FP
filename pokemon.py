@@ -16,6 +16,7 @@ def adicionar_pokemon():
         ficheiro.write(f"{nome};{tipo};{ataque1};{dano1};{ataque2};{dano2};{precisao};{hp}\n")
 
     print("Pokémon adicionado com sucesso!")
+
 #listing all pokemons in the list
 def listar_pokemons():
     pokemons = []
@@ -24,6 +25,7 @@ def listar_pokemons():
         for linha in ficheiro:
             dados = linha.strip().split(";")
             pokemons.append(dados)
+   
 
     return pokemons
 

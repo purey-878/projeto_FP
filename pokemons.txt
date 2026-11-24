@@ -4,3 +4,5 @@ Bulbasaur;Grass;Tackle;10;Vine Whip;25;80;120
 Squirtle;Water;Tackle;12;Water Gun;32;65;105
 Geodude;Rock;Rock Throw;9;Rock Slide;28;75;130
 Eevee;Normal;Quick Attack;14;Swift;35;60;90
+Carlos;Exhausted;Sleep;10;Rizz;30;100;86
+
